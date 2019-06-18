@@ -1,0 +1,16 @@
+2019-06-18 17:44:53 Log.py[line:18] INFO 测试步骤 open_browser('chrome') ：执行成功
+2019-06-18 17:44:54 Log.py[line:18] INFO 测试步骤 visit_url('http:www.sogou.com') ：执行成功
+2019-06-18 17:44:55 Log.py[line:18] INFO 测试步骤 input_string('id','query','自动化测试') ：执行成功
+2019-06-18 17:44:55 Log.py[line:18] INFO 测试步骤 click('id','stb') ：执行成功
+2019-06-18 17:44:58 Log.py[line:18] INFO 测试步骤 sleep('3') ：执行成功
+2019-06-18 17:44:58 Log.py[line:18] INFO 测试步骤 assert_string_in_pagesource('自动化') ：执行成功
+2019-06-18 17:45:00 Log.py[line:18] INFO 测试步骤 close_browser() ：执行成功
+2019-06-18 17:45:00 Log.py[line:18] INFO 测试用例 搜狗:测试通过
+2019-06-18 17:45:03 Log.py[line:18] INFO 测试步骤 open_browser('chrome') ：执行成功
+2019-06-18 17:45:05 Log.py[line:18] INFO 测试步骤 visit_url('http:www.baidu.com') ：执行成功
+2019-06-18 17:45:05 Log.py[line:18] INFO 测试步骤 input_string('id','kw','NBA') ：执行成功
+2019-06-18 17:45:05 Log.py[line:18] INFO 测试步骤 click('id','su') ：执行成功
+2019-06-18 17:45:08 Log.py[line:18] INFO 测试步骤 sleep('3') ：执行成功
+2019-06-18 17:45:08 Log.py[line:18] INFO 测试步骤 assert_string_in_pagesource('篮球') ：执行成功
+2019-06-18 17:45:10 Log.py[line:18] INFO 测试步骤 close_browser() ：执行成功
+2019-06-18 17:45:10 Log.py[line:18] INFO 测试用例 百度:测试通过
